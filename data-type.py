@@ -1,5 +1,5 @@
+# Task 1: Data Types
 
-# Task 1
 # Converting float to int and print the value
 print(int(3.75))
 
